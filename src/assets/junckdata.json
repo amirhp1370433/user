@@ -1,0 +1,48 @@
+{
+    "student": [
+       {
+          "name": "amir",
+          "identify_code": "1.1.1.1",
+          "vorodi":"1400.6.19",
+          "city":"tehran",
+          "terms": [
+             {
+                "term1": [
+                   "rizai",
+                   "olom"
+                ],
+                "term2": [
+                   "physic",
+                   "vasaya_emam"
+                ],
+                "term3": [
+                   "havafaza",
+                   "vasaya_emam-v0.2"
+                   ]
+             }
+          ]
+       },
+       {
+        "name": "maryam",
+        "vorodi":"1401.2.12",
+        "city":"tehran",
+        "identify_code": "0.3.6.9",
+        "terms": [
+           {
+              "term1": [
+                 "tanzim_khanevade",
+                 "tarbiat_badani"
+              ],
+              "term2": [
+                 "english_3l3mntry",
+                 "vasaya_emam"
+              ],
+              "term3": [
+                 "havafaza",
+                 "vasaya_emam-v0.2"
+                 ]
+           }
+        ]
+     }
+    ]
+ }
